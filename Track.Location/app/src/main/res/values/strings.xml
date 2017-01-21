@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="button_getStarted">Get Started</string>
+    <string name="track_location">ASU Track Location</string>
+    <string name="slide_layout">Hello World</string>
+    android:text="@string/slide_layout"
+</resources>
